@@ -17,6 +17,7 @@ Visual components and Python
 
 
 ## Experiment:
+![6th](https://github.com/user-attachments/assets/78113311-e086-4d63-859d-ca81f4650124)
 
 
 ## Program
